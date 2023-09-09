@@ -1,0 +1,10 @@
+C:\Project\3CXPhonePlugin\CallTriggerCmd\bin\Debug\CallTriggerCmd.exe.config
+C:\Project\3CXPhonePlugin\CallTriggerCmd\bin\Debug\CallTriggerCmd.exe
+C:\Project\3CXPhonePlugin\CallTriggerCmd\bin\Debug\CallTriggerCmd.pdb
+C:\Project\3CXPhonePlugin\CallTriggerCmd\bin\Debug\CallTriggerCmdServiceProvider.dll
+C:\Project\3CXPhonePlugin\CallTriggerCmd\bin\Debug\CallTriggerCmdServiceProvider.pdb
+C:\Project\3CXPhonePlugin\CallTriggerCmd\obj\Debug\CallTriggerCmd.csproj.AssemblyReference.cache
+C:\Project\3CXPhonePlugin\CallTriggerCmd\obj\Debug\CallTriggerCmd.csproj.CoreCompileInputs.cache
+C:\Project\3CXPhonePlugin\CallTriggerCmd\obj\Debug\CallTriggerCmd.csproj.CopyComplete
+C:\Project\3CXPhonePlugin\CallTriggerCmd\obj\Debug\CallTriggerCmd.exe
+C:\Project\3CXPhonePlugin\CallTriggerCmd\obj\Debug\CallTriggerCmd.pdb
